@@ -1,2 +1,2 @@
 # MIW Rock-Paper-Scissors
- It's a simple rock, paper, scisors game using Markov model.
+ It's a simple rock, paper, scissors game using Markov model.
